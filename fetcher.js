@@ -22,4 +22,3 @@ const getData = function (url, localFile) {
 };
 
 getData(url, localFile);
-
